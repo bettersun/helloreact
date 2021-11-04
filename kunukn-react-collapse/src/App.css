@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.column1{
+  float:left;
+  width:33%;
+}
+.column2{
+  float:left;
+  width:34%;
+}
+.column3{
+  float:left;
+  width:33%;
+}      
+
+.collapseA {
+  margin: 8px;
+  background-color: lightgreen;
+}
+
+.collapseB {
+  margin: 8px;
+  background-color: lightblue;
+}
+
+.collapseC {
+  margin: 8px;
+  background-color: lightskyblue;
+}
