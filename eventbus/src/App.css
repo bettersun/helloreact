@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.column1{
+  float:left;
+  width:45%;
+  height: 50px;
+  margin: 8px;
+  padding: 8px;
+  background-color: lightgreen;
+}
+.column2{
+  float:left;
+  width:45%;
+  height: 50px;
+  margin: 8px;
+  padding: 8px;
+  background-color: lightblue;
+}   
